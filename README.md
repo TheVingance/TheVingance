@@ -11,6 +11,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[Vingance GitHub stats](https://github-readme-stats.vercel.app/api?username=thevingance&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
+
+Sobre mim: Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em programação e desenvolvimento de software (Python, JavaScript e Vue.JS), além de experiência prática com criação de sites em WordPress e gestão de hospedagens (GoDaddy, HostGator). Minha formação técnica também abrange conhecimentos em Inteligência Artificial e Cibersegurança.
+Complemento minha atuação técnica com grande versatilidade multitarefa. Tenho facilidade com criação multimídia, dominando a edição de vídeos e imagens (Adobe Premiere, After Effects e Photoshop). Possuo excelentes noções de informática, domínio avançado do Pacote Office, digitação rápida e familiaridade com rotinas administrativas essenciais.
+No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente organizado e responsável. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
 
 <div style="display: inline_block"><br>          
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
