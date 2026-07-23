@@ -7,11 +7,14 @@
 
 <br>
 
-Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em programação e desenvolvimento de software (Python, JavaScript e Vue.JS), além de experiência prática com criação de sites em WordPress e gestão de hospedagens (GoDaddy, HostGator). Minha formação técnica também abrange conhecimentos em Inteligência Artificial e Cibersegurança.
+Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em desenvolvimento de software e segurança da informação, sendo movido pela criação de soluções eficientes e de impacto real.
 
-Complemento minha atuação técnica com grande versatilidade multitarefa. Tenho facilidade com criação multimídia, dominando a edição de vídeos e imagens (Adobe Premiere, After Effects e Photoshop). Possuo excelentes noções de informática, domínio avançado do Pacote Office, digitação rápida e familiaridade com rotinas administrativas essenciais.
-
-No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente organizado e responsável. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
+Atualmente, minhas principais frentes de desenvolvimento são:
+<ul>
+  <li>🎓 <strong>Meu TCC (Segurança em IA):</strong> Estou analisando a vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>. Para isso, estou orquestrando testes em 9 LLMs diferentes através de uma arquitetura desenvolvida em <strong>Python</strong> e <strong>FastAPI</strong>.</li>
+  <li>🚀 <strong>Projeto <a href="https://github.com/Celilac/celillac" target="_blank">Celilac</a>:</strong> Uma plataforma de segurança alimentar que ajuda celíacos a detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo. O back-end é construído com <strong>Node.js</strong> e <strong>TypeScript</strong>, aplicando boas práticas de engenharia de software como <strong>Clean Architecture</strong> e <strong>Domain-Driven Design (DDD)</strong> para garantir escalabilidade e manutenção.</li>
+</ul>
+No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
 
 <br>
 
