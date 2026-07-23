@@ -1,7 +1,6 @@
 ## Henrique Triches
-<p align="center">
-<img src=[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!&center=true)](https://git.io/typing-svg) />
-</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!&center=true)](https://git.io/typing-svg) />
+
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
