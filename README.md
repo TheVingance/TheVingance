@@ -1,11 +1,12 @@
 ## Henrique Triches
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!&center=true)](https://git.io/typing-svg) />
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!&center=true)](https://git.io/typing-svg)
 
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
   <a href="https://github.com/TheVingance">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+vindo&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+vindo&center=true&width=440&height=45&vCenter=true&pause=1000&size=22" 
+    /></a>
 </p>
 Sobre mim: Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em programação e desenvolvimento de software (Python, JavaScript e Vue.JS), além de experiência prática com criação de sites em WordPress e gestão de hospedagens (GoDaddy, HostGator). Minha formação técnica também abrange conhecimentos em Inteligência Artificial e Cibersegurança.
 Complemento minha atuação técnica com grande versatilidade multitarefa. Tenho facilidade com criação multimídia, dominando a edição de vídeos e imagens (Adobe Premiere, After Effects e Photoshop). Possuo excelentes noções de informática, domínio avançado do Pacote Office, digitação rápida e familiaridade com rotinas administrativas essenciais.
