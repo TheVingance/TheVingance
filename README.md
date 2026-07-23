@@ -1,5 +1,5 @@
 ## Henrique Triches
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!+)](https://git.io/typing-svg)
 <!--
   ![Vingance GitHub stats](https://github-readme-stats.vercel.app/api?username=thevingance&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
 - 🔭 I’m currently working on ...
