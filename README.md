@@ -1,4 +1,4 @@
-## Henrique Triches
+## 
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -37,5 +37,7 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente or
 </p>
 
 ##
-
+<p align="center">
+  
  [![GitHub Streak](https://streak-stats.demolab.com/?user=TheVingance)](https://git.io/streak-stats)
+</p>
