@@ -11,7 +11,7 @@ Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a
 
 Atualmente, minhas principais frentes de desenvolvimento são:
 <ul>
-  <li>🎓 <strong>Meu TCC (Segurança em IA):</strong> Estou analisando a vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>. Para isso, estou orquestrando testes em 9 LLMs diferentes através de uma arquitetura desenvolvida em <strong>Python</strong> e <strong>FastAPI</strong>.</li>
+  <li>🎓 <strong>Meu TCC <a href="https://github.com/TheVingance/TCC-PromptInjection" target="_blank">(Segurança em IA)</a>:</strong> Estou analisando a vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>. Para isso, estou orquestrando testes em 9 LLMs diferentes através de uma arquitetura desenvolvida em <strong>Python</strong> e <strong>FastAPI</strong>.</li>
   <li>🚀 <strong>Projeto <a href="https://github.com/Celilac/celillac" target="_blank">Celilac</a>:</strong> Uma plataforma de segurança alimentar que ajuda celíacos a detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo. O back-end é construído com <strong>Node.js</strong> e <strong>TypeScript</strong>, aplicando boas práticas de engenharia de software como <strong>Clean Architecture</strong> e <strong>Domain-Driven Design (DDD)</strong> para garantir escalabilidade e manutenção.</li>
 </ul>
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
@@ -21,7 +21,7 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente o
 <div align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
   
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" >
   <img alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
