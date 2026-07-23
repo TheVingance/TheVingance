@@ -1,3 +1,5 @@
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color">
+
 <div align="center">
   <!-- Typing SVG by DenverCoder1 -->
   <a href="https://github.com/TheVingance">
@@ -46,7 +48,5 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente o
 <br>
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=TheVingance" alt="GitHub Streak" />
-  </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheVingance&theme=react" alt="GitHub Streak" /></a>
 </div>
