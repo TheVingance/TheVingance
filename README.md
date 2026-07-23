@@ -1,10 +1,13 @@
 ## Henrique Triches
+<p align="center">
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!+)](https://git.io/typing-svg)
+</p>
 
 Sobre mim: Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em programação e desenvolvimento de software (Python, JavaScript e Vue.JS), além de experiência prática com criação de sites em WordPress e gestão de hospedagens (GoDaddy, HostGator). Minha formação técnica também abrange conhecimentos em Inteligência Artificial e Cibersegurança.
 Complemento minha atuação técnica com grande versatilidade multitarefa. Tenho facilidade com criação multimídia, dominando a edição de vídeos e imagens (Adobe Premiere, After Effects e Photoshop). Possuo excelentes noções de informática, domínio avançado do Pacote Office, digitação rápida e familiaridade com rotinas administrativas essenciais.
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente organizado e responsável. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
 
+<p align="center">
 ### 🤖 Linguagens e Tecnologias
 <div style="display: inline_block"><br>          
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -15,8 +18,7 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente or
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  ##
+  </p>
  
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -27,5 +29,5 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente or
   <a href="https://www.linkedin.com/in/henrique-triches-a77b82375" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
- ![Vingance GitHub stats](https://github-readme-stats.vercel.app/api?username=thevingance&show_icons=true&theme=radical&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage)
- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+ [![GitHub Streak](https://streak-stats.demolab.com/?user=TheVingance)](https://git.io/streak-stats)
