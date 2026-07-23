@@ -1,8 +1,13 @@
 ## Henrique Triches
 <p align="center">
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!+)](https://git.io/typing-svg)
+<img src=[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Henrique+Triches;Seja+bem+vindo!&center=true)](https://git.io/typing-svg) />
 </p>
 
+<p align="center">
+  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+  <a href="https://github.com/TheVingance">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Seja+Bem+vindo&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=22" /></a>
+</p>
 Sobre mim: Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em programação e desenvolvimento de software (Python, JavaScript e Vue.JS), além de experiência prática com criação de sites em WordPress e gestão de hospedagens (GoDaddy, HostGator). Minha formação técnica também abrange conhecimentos em Inteligência Artificial e Cibersegurança.
 Complemento minha atuação técnica com grande versatilidade multitarefa. Tenho facilidade com criação multimídia, dominando a edição de vídeos e imagens (Adobe Premiere, After Effects e Photoshop). Possuo excelentes noções de informática, domínio avançado do Pacote Office, digitação rápida e familiaridade com rotinas administrativas essenciais.
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente organizado e responsável. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
@@ -17,7 +22,9 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado, altamente or
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Rafa-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
- 
+
+
+ ##
 <div> 
   <a href="https://www.youtube.com/" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/htriches" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
