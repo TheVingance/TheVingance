@@ -9,7 +9,7 @@
 
 <br>
 
-Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em desenvolvimento de software e segurança da informação, sendo movido pela criação de soluções eficientes e de impacto real.
+!Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em desenvolvimento de software e segurança da informação, sendo movido pela criação de soluções eficientes e de impacto real.
 
 Atualmente, minhas principais frentes de desenvolvimento são:
 <ul>
