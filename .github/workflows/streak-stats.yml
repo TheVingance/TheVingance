@@ -1,0 +1,35 @@
+name: Update streak stats
+
+on:
+  schedule:
+    # Executa todos os dias às 03:00 UTC (meia-noite no horário de Brasília)
+    - cron: "0 3 * * *"
+  push:
+    paths:
+      - ".github/workflows/streak-stats.yml"
+  # Permite disparar manualmente a qualquer momento pela aba Actions
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # Permissão para gravar o arquivo SVG gerado no repositório
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate streak stats
+        uses: DenverCoder1/github-readme-streak-stats@v1.8.0
+        with:
+          options: user=${{ github.repository_owner }}&theme=react
+          path: profile-streak-stats.svg
+
+      - name: Commit streak stats
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add profile-streak-stats.svg
+          git commit -m "chore: update streak stats" || exit 0
+          git push
