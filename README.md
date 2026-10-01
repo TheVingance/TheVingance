@@ -47,3 +47,11 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente o
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=TheVingance&theme=react" alt="GitHub Streak" /></a>
 </div>
+
+<!-- Streak Stats via Github Actions dentro do repositório do PERFIL -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="./profile-streak-stats.svg" alt="GitHub Streak" />
+  </a>
+</div>
+
