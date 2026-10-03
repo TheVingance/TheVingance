@@ -17,7 +17,7 @@ Atualmente, minhas principais frentes de desenvolvimento são:
   <li>🚀 <strong>Projeto <a href="https://github.com/Celilac/celillac" target="_blank">Celilac</a>:</strong> Atuo como desenvolvedor voluntário neste projeto de extensão em parceria com o Professor Everton Coimbra. trata-se de uma plataforma de segurança alimentar que ajuda celíacos a detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo. O back-end é construído com <strong>Node.js</strong> e <strong>TypeScript</strong>, aplicando boas práticas de engenharia de software como <strong>Clean Architecture</strong> e <strong>Domain-Driven Design (DDD)</strong> para garantir escalabilidade e manutenção.</li>
 </ul>
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
-
+[![Curriculo Online](https://img.shields.io/badge/Acessar-Currículo_Online-38bdf8?style=for-the-badge&logo=googledocs&logoColor=white)](https://thevingance.github.io/curriculo/)
 <br>
 
 <div align="center">
