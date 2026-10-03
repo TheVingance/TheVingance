@@ -16,17 +16,20 @@ Atualmente, minhas principais frentes de desenvolvimento são:
   <li>🎓 <strong>Meu TCC <a href="https://github.com/TheVingance/TCC-PromptInjection" target="_blank">(Segurança em IA)</a>:</strong> Estou analisando a vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>. Para isso, estou orquestrando testes em 9 LLMs diferentes através de uma arquitetura desenvolvida em <strong>Python</strong> e <strong>FastAPI</strong>.</li>
   <li>🚀 <strong>Projeto <a href="https://github.com/Celilac/celillac" target="_blank">Celilac</a>:</strong> Atuo como desenvolvedor voluntário neste projeto de extensão em parceria com o Professor Everton Coimbra. trata-se de uma plataforma de segurança alimentar que ajuda celíacos a detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo. O back-end é construído com <strong>Node.js</strong> e <strong>TypeScript</strong>, aplicando boas práticas de engenharia de software como <strong>Clean Architecture</strong> e <strong>Domain-Driven Design (DDD)</strong> para garantir escalabilidade e manutenção.</li>
 </ul>
+
+<p>
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
+</p>
 
-<br>
+<br />
 
-<p align="center">
+<div align="center">
   <a href="https://thevingance.github.io/CurriculumVitae/">
     <img src="https://img.shields.io/badge/Acessar-Currículo_Online-38bdf8?style=for-the-badge&logo=googledocs&logoColor=white" alt="Acessar Currículo Online" />
   </a>
-</p>
+</div>
 
-<br>
+<br />
 
 <div align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
