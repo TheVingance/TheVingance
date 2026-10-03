@@ -18,9 +18,15 @@ Atualmente, minhas principais frentes de desenvolvimento são:
 </ul>
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
 
-[![Curriculo Online](https://img.shields.io/badge/Acessar-Currículo_Online-38bdf8?style=for-the-badge&logo=googledocs&logoColor=white)](https://thevingance.github.io/curriculo/)
+<br>
 
-📄 **[Visualizar meu Currículo Online](https://thevingance.github.io/curriculo/)** (com opção de download em PDF)
+<p align="center">
+  <a href="https://thevingance.github.io/CurriculumVitae/">
+    <img src="https://img.shields.io/badge/Acessar-Currículo_Online-38bdf8?style=for-the-badge&logo=googledocs&logoColor=white" alt="Acessar Currículo Online" />
+  </a>
+</p>
+
+<br>
 
 <div align="center">
   <h3>🤖 Linguagens e Tecnologias</h3>
