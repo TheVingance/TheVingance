@@ -24,8 +24,8 @@ No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente o
 <br />
 
 <div align="center">
-  <a href="https://thevingance.github.io/CurriculumVitae/">
-    <img src="https://img.shields.io/badge/Acessar-Currículo_Online-38bdf8?style=for-the-badge&logo=googledocs&logoColor=white" alt="Acessar Currículo Online" />
+  <a href="https://thevingance.github.io/CurriculumVitae/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar-Curr%C3%ADculo_Online-0284c7?style=for-the-badge&logo=googledocs&logoColor=38bdf8" alt="Acessar Currículo Online" />
   </a>
 </div>
 
