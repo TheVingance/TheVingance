@@ -1,4 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=00FFFF">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
+  <img alt="Henrique Triches, Computer Science · AI &amp; Cybersecurity" src="./assets/header-light.svg" width="100%">
+</picture>
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 -->
