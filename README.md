@@ -14,12 +14,36 @@
 
 Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em desenvolvimento de software e segurança da informação, sendo movido pela criação de soluções eficientes e de impacto real.
 
-Atualmente, minhas principais frentes de desenvolvimento são:
-<ul>
-  <li>🎓 <strong>Meu TCC <a href="https://github.com/TheVingance/TCC-PromptInjection" target="_blank">(Segurança em IA)</a>:</strong> Estou analisando a vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>. Para isso, estou orquestrando testes em 9 LLMs diferentes através de uma arquitetura desenvolvida em <strong>Python</strong> e <strong>FastAPI</strong>.</li>
-  <li>🛡️ <strong>Projeto <a href="https://github.com/TheVingance/prompt-sentinel" target="_blank">Prompt Sentinel</a>:</strong> Desenvolvimento de um firewall e proxy reverso de segurança para aplicações com LLM. O projeto intercepta requisições em tempo real para mitigar riscos como <i>prompt injection</i>, vazamento de dados sensíveis (PII) e abuso de requisições, construído com <strong>Python</strong>, <strong>FastAPI</strong> e <strong>PostgreSQL (pgvector)</strong>.</li>
-  <li>🚀 <strong>Projeto <a href="https://github.com/Celilac/celillac" target="_blank">Celilac</a>:</strong> Atuo como desenvolvedor voluntário neste projeto de extensão em parceria com o Professor Everton Coimbra. Trata-se de uma plataforma de segurança alimentar que ajuda celíacos a detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo. O back-end é construído com <strong>Node.js</strong> e <strong>TypeScript</strong>, aplicando boas práticas de engenharia de software como <strong>Clean Architecture</strong> e <strong>Domain-Driven Design (DDD)</strong> para garantir escalabilidade e manutenção.</li>
-</ul>
+### 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎓 <a href="https://github.com/TheVingance/TCC-PromptInjection">TCC - Segurança em IA</a></h4>
+      Análise de vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>, com testes automatizados em 9 LLMs através de uma arquitetura resiliente.
+      <br><br><code>Python</code> <code>FastAPI</code> <code>LLMs</code> <code>AI Security</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛡️ <a href="https://github.com/TheVingance/prompt-sentinel">Prompt Sentinel</a></h4>
+      Firewall e proxy reverso de segurança para aplicações com LLM. Intercepta requisições em tempo real mitigando <i>prompt injection</i>, vazamento de PII e abuso de requisições.
+      <br><br><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🌾 <a href="https://github.com/Celilac/celillac">Celilac</a></h4>
+      Plataforma de extensão em segurança alimentar para celíacos detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo.
+      <br><br><code>Node.js</code> <code>TypeScript</code> <code>Clean Architecture</code> <code>DDD</code>
+    </td>
+    <td width="50%" valign="top">
+      <h4>💼 <a href="https://thevingance.github.io/CurriculumVitae/">Portfólio &amp; CV Online</a></h4>
+      Currículo profissional e portfólio interativo web com documentação de carreira, certificações e histórico de projetos hospedado no GitHub Pages.
+      <br><br><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>GitHub Pages</code>
+    </td>
+  </tr>
+</table>
+
+<p align="right"><a href="https://github.com/TheVingance?tab=repositories">more in my repositories →</a></p>
 
 <p>
 No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
