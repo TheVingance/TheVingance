@@ -5,7 +5,10 @@
 
 <br>
 
+<p>
 Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em desenvolvimento de software e segurança da informação, sendo movido pela criação de soluções eficientes e de impacto real.
+No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
+</p>
 
 ### 🚀 Featured projects
 
@@ -38,9 +41,6 @@ Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a
 
 <p align="right"><a href="https://github.com/TheVingance?tab=repositories">more in my repositories →</a></p>
 
-<p>
-No ambiente corporativo, destaco-me por ser comunicativo, dedicado e altamente organizado. Valorizo a pontualidade e busco sempre colaborar de forma dinâmica com a equipe para alcançar os melhores resultados.
-</p>
 
 <br />
 
