@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg">
-  <img alt="Henrique Triches, Computer Science · AI &amp; Cybersecurity" src="./assets/header-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/header-dark.svg?v=cyan">
+  <img alt="Henrique Triches, Computer Science · AI &amp; Cybersecurity" src="./assets/header-light.svg?v=cyan" width="100%">
 </picture>
 
 <div align="center">
