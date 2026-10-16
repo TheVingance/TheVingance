@@ -3,13 +3,6 @@
   <img alt="Henrique Triches, Computer Science · AI &amp; Cybersecurity" src="./assets/header-light.svg?v=cyan" width="100%">
 </picture>
 
-<div align="center">
-  <!-- Typing SVG by DenverCoder1 -->
-  <a href="https://github.com/TheVingance">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Henrique+Triches+Iurkiv;Seja+bem+vindo!&center=true&width=440&height=45&vCenter=true&pause=1000&size=25" />
-  </a>
-</div>
-
 <br>
 
 Sou um profissional de tecnologia com perfil analítico, atualmente concluindo a graduação em Ciência da Computação. Possuo sólida base em desenvolvimento de software e segurança da informação, sendo movido pela criação de soluções eficientes e de impacto real.
