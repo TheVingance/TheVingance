@@ -11,24 +11,28 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/TheVingance/TCC-PromptInjection">TCC - Segurança em IA</a></h4>
+      <b>🎓 <a href="https://github.com/TheVingance/TCC-PromptInjection">TCC - Segurança em IA</a></b>
+      <br><br>
       Análise de vulnerabilidade de modelos de Inteligência Artificial contra ataques de <i>prompt injection</i>, com testes automatizados em 9 LLMs através de uma arquitetura resiliente.
       <br><br><code>Python</code> <code>FastAPI</code> <code>LLMs</code> <code>AI Security</code>
     </td>
     <td width="50%" valign="top">
-      <h4>🛡️ <a href="https://github.com/TheVingance/prompt-sentinel">Prompt Sentinel</a></h4>
+      <b>🛡️ <a href="https://github.com/TheVingance/prompt-sentinel">Prompt Sentinel</a></b>
+      <br><br>
       Firewall e proxy reverso de segurança para aplicações com LLM. Intercepta requisições em tempo real mitigando <i>prompt injection</i>, vazamento de PII e abuso de requisições.
       <br><br><code>Python</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌾 <a href="https://github.com/Celilac/celillac">Celilac</a></h4>
+      <b>🌾 <a href="https://github.com/Celilac/celillac">Celilac</a></b>
+      <br><br>
       Plataforma de extensão em segurança alimentar para celíacos detectarem alérgenos e riscos de contaminação cruzada em produtos antes do consumo.
       <br><br><code>Node.js</code> <code>TypeScript</code> <code>Clean Architecture</code> <code>DDD</code>
     </td>
     <td width="50%" valign="top">
-      <h4>💼 <a href="https://thevingance.github.io/CurriculumVitae/">Portfólio &amp; CV Online</a></h4>
+      <b>💼 <a href="https://thevingance.github.io/CurriculumVitae/">Portfólio &amp; CV Online</a></b>
+      <br><br>
       Currículo profissional e portfólio interativo web com documentação de carreira, certificações e histórico de projetos hospedado no GitHub Pages.
       <br><br><code>JavaScript</code> <code>HTML5</code> <code>CSS3</code> <code>GitHub Pages</code>
     </td>
@@ -61,6 +65,32 @@
   <img alt="Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img alt="next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
   <img alt="next.js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" >
+</div>
+
+<br>
+
+<div align="center">
+  <h3>🛡️ Certificações & Badges Cisco</h3>
+  <p><sub>Clique em cada badge para visualizar o certificado oficial de conclusão</sub></p>
+
+  <a href="./Cisco/JuniorCybersecurityAnalystUpdate20261018-21.pdf" target="_blank" title="Junior Cybersecurity Analyst Career Path">
+    <img src="./Cisco/junior-cybersecurity-analyst-career-path.1.png" width="112" alt="Junior Cybersecurity Analyst Career Path" />
+  </a>
+  <a href="./Cisco/Certificado_Introduction%20to%20Cybersecurity.pdf" target="_blank" title="Introduction to Cybersecurity">
+    <img src="./Cisco/introduction-to-cybersecurity.png" width="112" alt="Introduction to Cybersecurity" />
+  </a>
+  <a href="./Cisco/Certificado_Gerenciamento%20de%20Amea%C3%A7as%20Cibern%C3%A9ticas.pdf" target="_blank" title="Cyber Threat Management">
+    <img src="./Cisco/cyber-threat-management.png" width="112" alt="Cyber Threat Management" />
+  </a>
+  <a href="./Cisco/EndpointSecurityUpdate20261018-21.pdf" target="_blank" title="Endpoint Security">
+    <img src="./Cisco/endpoint-security.png" width="112" alt="Endpoint Security" />
+  </a>
+  <a href="./Cisco/NetworkingBasicsUpdate2026-10-16.pdf" target="_blank" title="Networking Basics">
+    <img src="./Cisco/networking-basics.png" width="112" alt="Networking Basics" />
+  </a>
+  <a href="./Cisco/NetworkingDevicesandBasicConfigUpdate20261016-20-tfgewd.pdf" target="_blank" title="Networking Devices and Initial Configuration">
+    <img src="./Cisco/networking-devices-and-initial-configuration.png" width="112" alt="Networking Devices and Initial Configuration" />
+  </a>
 </div>
 
 <br>
