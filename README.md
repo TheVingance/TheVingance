@@ -76,20 +76,20 @@
   <a href="./Cisco/JuniorCybersecurityAnalystUpdate20261018-21.pdf" target="_blank" title="Junior Cybersecurity Analyst Career Path">
     <img src="./Cisco/junior-cybersecurity-analyst-career-path.1.png" width="112" alt="Junior Cybersecurity Analyst Career Path" />
   </a>
-  <a href="./Cisco/Certificado_Introduction%20to%20Cybersecurity.pdf" target="_blank" title="Introduction to Cybersecurity">
-    <img src="./Cisco/introduction-to-cybersecurity.png" width="112" alt="Introduction to Cybersecurity" />
-  </a>
   <a href="./Cisco/Certificado_Gerenciamento%20de%20Amea%C3%A7as%20Cibern%C3%A9ticas.pdf" target="_blank" title="Cyber Threat Management">
     <img src="./Cisco/cyber-threat-management.png" width="112" alt="Cyber Threat Management" />
   </a>
   <a href="./Cisco/EndpointSecurityUpdate20261018-21.pdf" target="_blank" title="Endpoint Security">
     <img src="./Cisco/endpoint-security.png" width="112" alt="Endpoint Security" />
   </a>
+  <a href="./Cisco/NetworkingDevicesandBasicConfigUpdate20261016-20-tfgewd.pdf" target="_blank" title="Networking Devices and Initial Configuration">
+    <img src="./Cisco/networking-devices-and-initial-configuration.png" width="112" alt="Networking Devices and Initial Configuration" />
+  </a>
   <a href="./Cisco/NetworkingBasicsUpdate2026-10-16.pdf" target="_blank" title="Networking Basics">
     <img src="./Cisco/networking-basics.png" width="112" alt="Networking Basics" />
   </a>
-  <a href="./Cisco/NetworkingDevicesandBasicConfigUpdate20261016-20-tfgewd.pdf" target="_blank" title="Networking Devices and Initial Configuration">
-    <img src="./Cisco/networking-devices-and-initial-configuration.png" width="112" alt="Networking Devices and Initial Configuration" />
+  <a href="./Cisco/Certificado_Introduction%20to%20Cybersecurity.pdf" target="_blank" title="Introduction to Cybersecurity">
+    <img src="./Cisco/introduction-to-cybersecurity.png" width="112" alt="Introduction to Cybersecurity" />
   </a>
 </div>
 
